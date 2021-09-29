@@ -1,0 +1,10 @@
+com\jumia\validator\entity\Customer.class
+com\jumia\validator\ValidatorApplication.class
+com\jumia\validator\controller\customerController.class
+com\jumia\validator\repository\CustomerRepository.class
+com\jumia\validator\service\CustomerService.class
+com\jumia\validator\dialect\SQLDialect.class
+com\jumia\validator\util\regexUtil.class
+com\jumia\validator\bo\CountryBo.class
+com\jumia\validator\bo\CustomerBo.class
+com\jumia\validator\controller\testController.class
